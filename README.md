@@ -2,3 +2,6 @@
 hh
 
 Huy Huynh Nhat
+CS major
+
+CPP
