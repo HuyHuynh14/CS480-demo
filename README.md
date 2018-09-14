@@ -1,7 +1,2 @@
-`# CS480-demo
-hh
-
-Huy Huynh Nhat
-CS major
-
-CPP student Hello alllllll studentsssss
+Helllo Every one 
+My Name is Huy
