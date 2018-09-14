@@ -1,3 +1,3 @@
 
-Hello  my name is Huy
+Hello I am Huy
 Welcome to CPP
